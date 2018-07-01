@@ -1,0 +1,16 @@
+PODS:
+  - HFBlurVibrancyView (0.1.0)
+
+DEPENDENCIES:
+  - HFBlurVibrancyView (from `../../HFBlurVibrancyView`)
+
+EXTERNAL SOURCES:
+  HFBlurVibrancyView:
+    :path: "../../HFBlurVibrancyView"
+
+SPEC CHECKSUMS:
+  HFBlurVibrancyView: a89f86402d99f9510a3407d83ba06049655d877b
+
+PODFILE CHECKSUM: 4045a926c8c0ac743de7df66a3df792e2b33b5af
+
+COCOAPODS: 1.5.3

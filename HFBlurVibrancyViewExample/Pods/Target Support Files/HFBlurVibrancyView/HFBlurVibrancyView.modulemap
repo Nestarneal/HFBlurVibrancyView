@@ -1,0 +1,6 @@
+framework module HFBlurVibrancyView {
+  umbrella header "HFBlurVibrancyView-umbrella.h"
+
+  export *
+  module * { export * }
+}

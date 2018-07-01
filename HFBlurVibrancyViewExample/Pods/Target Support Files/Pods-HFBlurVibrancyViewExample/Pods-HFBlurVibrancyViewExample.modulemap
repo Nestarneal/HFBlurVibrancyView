@@ -1,0 +1,6 @@
+framework module Pods_HFBlurVibrancyViewExample {
+  umbrella header "Pods-HFBlurVibrancyViewExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
